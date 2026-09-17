@@ -1,2 +1,3 @@
-# 16_sql-sales-data-analysis
-Advanced SQL queries and data analysis on an enterprise sales database using aggregate functions, filtering, grouping, HAVING clauses, and subqueries in MySQL.
+# SQL Sales Data Analysis: Aggregations & Subqueries
+
+A hands-on SQL project focusing on data analysis, business metric calculations, and advanced querying using MySQL on a normalized sales management database schema[span_1](start_span)[span_1](end_span).
